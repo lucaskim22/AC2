@@ -14,9 +14,9 @@ Eu adoro **texto em negrito** e _Itálico_
 
 
 
-- 1 [x] Ganhar nota 10
-- 2 [ ] tirar zero na AC2
-- 3 [ ] Não fazer a AC2
+-  [x] Ganhar nota 10
+-  [ ] tirar zero na AC2
+-  [ ] Não fazer a AC2
 
 
 
@@ -57,4 +57,3 @@ Professor: [Leonardobontempo](https://github.com/leonardobontempo)
 
 
 ''#'' 
-
