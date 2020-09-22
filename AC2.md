@@ -1,10 +1,11 @@
 # Meu título é maravilhoso
 Eu adoro **texto em negrito** e _Itálico_
 
-| Nome    | Lucas    |
+| Item        | Produto  |
 | ----------- | ----------- |
-| Idade   | 28    |
-| Sexo    | Masculino|
+| 2           | ARROZ    |
+| 3           | FEIJÃO
+| 4          | ÓLEO      | 
 
 - [x] Ganhar nota 10
 - [ ] tirar zero na AC2
