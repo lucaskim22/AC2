@@ -23,7 +23,7 @@ Tabela:
 
 ------------------------------
 
-Lista númerada com marcador de tarefa
+Lista númerada com marcador de tarefa:
 
 -  [x] 1 Ganhar nota 10
 -  [ ] 2 tirar zero na AC2
@@ -37,7 +37,7 @@ Imagens e emojis:
 Esse texto é tão engraçado! :joy:
 
 ------------------------------
-trecho de código:
+Trecho de código:
 
 # Exemplo de código de programação 
 ```` aqui vai o meu código ````
