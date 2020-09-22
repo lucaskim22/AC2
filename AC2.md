@@ -1,9 +1,19 @@
+
+Titulo:
 # Meu título é maravilhoso
 
+------------------------------
+
+
+
+Negrito e Itálico:
 
 Eu adoro **texto em negrito** e _Itálico_
 
 
+-------------------------------
+
+Tabela:
 
 | Item        | Produto  |
 | ----------- | ----------- |
@@ -11,49 +21,57 @@ Eu adoro **texto em negrito** e _Itálico_
 | 3           | FEIJÃO
 | 4          | ÓLEO      | 
 
+------------------------------
+
+Lista númerada com marcador de tarefa
+
+-  [x] 1 Ganhar nota 10
+-  [ ] 2 tirar zero na AC2
+-  [ ] 3 Não fazer a AC2
+
+------------------------------
 
 
-
--  [x] Ganhar nota 10
--  [ ] tirar zero na AC2
--  [ ] Não fazer a AC2
-
-
-
-
-
-
+Imagens e emojis:
 
 Esse texto é tão engraçado! :joy:
 
+------------------------------
+trecho de código:
+
+# Exemplo de código de programação 
+```` aqui vai o meu código ````
+
+No prompt de comando, digite `nano`.
+
+Você fez qual AC?  `2`.
+
+------------------------------
 
 
+
+Citação:
 
 > ### Citação ###
 > A minha citação tem um título só para ela.
 
 
+----------------------------------------
 
 
 
-
-Você fez qual AC?  `2`.
-
-
-
-
+Mençao á usuários:
 
 Acesse nosso site: https://markdown.net.br para aprender
 
 
+------------------------------
 
-
-
+Links:
 
 
 Professor: [Leonardobontempo](https://github.com/leonardobontempo)
 
+------------------------------
 
-
-
-''#'' 
+''#''
