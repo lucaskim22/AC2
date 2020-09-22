@@ -42,7 +42,7 @@ Trecho de código:
 # Exemplo de código de programação 
 ```` aqui vai o meu código ````
 
-No prompt de comando, digite `nano`.
+No seu prompt de comando, digite `nano`.
 
 Você fez qual AC?  `2`.
 
@@ -75,4 +75,3 @@ Professor: [Leonardobontempo](https://github.com/leonardobontempo)
 ------------------------------
 
 ''#''
-
