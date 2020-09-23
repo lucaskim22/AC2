@@ -26,7 +26,7 @@ Tabela:
 Lista númerada com marcador de tarefa:
 
 -  [x] 1 Ganhar nota 10
--  [ ] 2 tirar zero na AC2
+-  [ ] 2 Tirar zero na AC2
 -  [ ] 3 Não fazer a AC2
 
 ------------------------------
@@ -75,3 +75,4 @@ Professor: [Leonardobontempo](https://github.com/leonardobontempo)
 ------------------------------
 
 ''#''
+
