@@ -17,9 +17,9 @@ Tabela:
 
 | Item        | Produto  |
 | ----------- | ----------- |
-| 2           | ARROZ    |
-| 3           | FEIJÃO
-| 4          | ÓLEO      | 
+| 1           | ARROZ    |
+| 2           | FEIJÃO
+| 3           | ÓLEO      | 
 
 ------------------------------
 
@@ -75,4 +75,5 @@ Professor: [Leonardobontempo](https://github.com/leonardobontempo)
 ------------------------------
 
 ''#''
+
 
