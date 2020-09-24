@@ -62,8 +62,7 @@ Citação:
 
 Links:
 
-Acesse nosso site: https://markdown.net.br para aprender
-
+Para mais informações acesse nosso site [AQUI.](https://markdown.net.br)
 
 ------------------------------
 
