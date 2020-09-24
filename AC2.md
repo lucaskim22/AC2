@@ -15,26 +15,29 @@ Eu adoro **texto em negrito** e _Itálico_
 
 Tabela:
 
-| Item        | Produto  |
+| Resultado   | Clube |
 | ----------- | ----------- |
-| 1           | ARROZ    |
-| 2           | FEIJÃO
-| 3           | ÓLEO      | 
+| 1           | Corinthians |   
+| 2           | Flamengo    |
+| 3           | São Paulo   | 
+
 
 ------------------------------
 
-Lista númerada com marcador de tarefa:
+Qual clube foi campeão mundial em 2012?
 
--  [x] 1 Ganhar nota 10
--  [ ] 2 Tirar zero na AC2
--  [ ] 3 Não fazer a AC2
+-  [ ] 1 Flamengo
+-  [x] 2 Corinthians
+-  [ ] 3 São Paulo   
 
 ------------------------------
 
 
 Imagens e emojis:
 
-Esse texto é tão engraçado! :joy:
+![ Logo do Corinthians](https://images.app.goo.gl/bYvf4LfgCYJT7Xv29)
+
+Esse conteúdo é tão engraçado! :joy:
 
 ------------------------------
 Trecho de código:
@@ -62,7 +65,7 @@ Citação:
 
 Links:
 
-Para mais informações acesse nosso site [AQUI.](https://markdown.net.br)
+Acesse o site oficia do Corinthians [AQUI.](https://www.corinthians.com.br/)
 
 ------------------------------
 
